@@ -1,5 +1,7 @@
 // server.js — Express entry point for Naija Dimes Hub
 require("dotenv").config();
+// --- deploy marker ---
+console.log("[server] DEPLOY OK — Naija Dimes Hub starting up")
 const express = require("express");
 const path = require("path");
 const session = require("express-session");
