@@ -1,90 +1,65 @@
-# Naija Dimes Hub — Premium Free Fire Diamonds Store
-Fast. Simple. Reliable.
+IyBOYWlqYSBEaW1lcyBIdWIg4oCUIFByZW1pdW0gRnJlZSBGaXJlIERpYW1v
+bmRzIFN0b3JlCkZhc3QuIFNpbXBsZS4gUmVsaWFibGUuCgojIyBRdWljayBT
+dGFydCAoTG9jYWwpCgpgYGBiYXNoCmdpdCBjbG9uZSBodHRwczovL2dpdGh1
+Yi5jb20vS2hhbGlkLWRldmpzL25haWphLWRpbWVzLWh1Yi5naXQKY2QgbmFp
+amEtZGltZXMtaHViCmNwIC5lbnYuZXhhbXBsZSAuZW52CiMgRURJVCAuZW52
+OiBjaGFuZ2UgU0VTU0lPTl9TRUNSRVQsIHNldCB5b3VyIGJhbmsgZGV0YWls
+cywgZXRjLgpucG0gaW5zdGFsbApucG0gc3RhcnQgICAjIGh0dHA6Ly9sb2Nh
+bGhvc3Q6MzAwMApgYGAKCiMjIE92ZXJ2aWV3CgotICoqU3RhY2sqKjogRXhw
+cmVzcyArIEVKUyArIFNRTGl0ZTMgKyBiY3J5cHRqcyArIGhlbG1ldCArIENT
+UkYKLSAqKk1vbmV5Kio6IE5HTiBzdG9yZWQgYXMga29ibyAo4oKmMSA9IDEw
+MCkKLSAqKkF1dGgqKjogc2Vzc2lvbiBjb29raWVzLCBiY3J5cHQgcGFzc3dv
+cmQgaGFzaGluZywgcm9sZeKAkWJhc2VkIChzdXBlcl9hZG1pbiB8IG1hbmFn
+ZXIgfCBzdXBwb3J0KQotICoqT3JkZXIgZmxvdyoqOiA3IHN0ZXBzIOKGkiBw
+YXltZW50IHNjcmVlbnNob3Qg4oaSIG1hbnVhbCBhZG1pbiBhcHByb3ZhbCDi
+hpIgQ09NUExFVEVECgojIyBBZG1pbiBjcmVkZW50aWFscwoKRGVmYXVsdCAo
+c2V0IGluIGAuZW52YCBvciBzZWVkIG9uIGZpcnN0IHJ1bik6Ci0gdXNlcm5h
+bWU6IGBhZG1pbmAKLSBwYXNzd29yZDogYE5haWphRGltZXMyMDI2IWAgIAot
+IHJvbGU6IGBzdXBlcl9hZG1pbmAKCioqQ0hBTkdFIFRIRVNFIG9uIGZpcnN0
+IGFkbWluIGxvZ2luLioqCgojIyBEaXJlY3RvcnkgbGF5b3V0CgpgYGAKbmFp
+amEtZGltZXMtaHViLwrilJzilIAgcGFja2FnZS5qc29uCuKUnOKUgCBzZXJ2
+ZXIuanMgICAgICAgICAgICMgRXhwcmVzcyBlbnRyeSBwb2ludArilJzilIAg
+c3JjLwrilIIgIOKUnOKUgCBkYi5qcyAgICAgICAgICAgICMgU1FMaXRlMyBj
+b25uZWN0aW9uICsgc2NoZW1hCuKUgiAg4pSc4pSAIGNvbmZpZy5qcyAgICAg
+ICAgIyBFbnZpcm9ubWVudCBjb25maWcK4pSCICDilJzilIAgbGliLwrilIIg
+IOKUgiAg4pSc4pSAIG1vbmV5LmpzICAgICAgIyBrb2JvIOKGlCBuYWlyYSBo
+ZWxwZXJzCuKUgiAg4pSCICDilJzilIAgb3JkZXJJZC5qcyAgICAjIE5ESC1Z
+WVlZTU1ERC1YWFhYIGdlbmVyYXRvcgrilIIgIOKUgiAg4pSc4pSAIG9yZGVy
+TWFjaGluZS5qcyAjIHN0YXRlIG1hY2hpbmUK4pSCICDilIIgIOKUnOKUgCBh
+dWRpdC5qcyAgICAgICMgYWN0aXZpdHkgbG9nZ2luZwrilIIgIOKUnOKUgCBy
+b3V0ZXMvCuKUgiAg4pSCICDilJzilIAgcHVibGljLmpzICAgICAjIGNsaWVu
+dCBwYWdlcwrilIIgIOKUgiAg4pSU4pSAIGFkbWluLmpzICAgICAgIyBkYXNo
+Ym9hcmQK4pSCICDilJTilIAgdmlld3MvCuKUgiAgICAg4pSc4pSAIGxheW91
+dC5lanMK4pSCICAgICDilJTilIAgLi4uCuKUnOKUgCBkYXRhLwrilIIgIOKU
+lOKUgCB1cGxvYWRzLyAgICAgICAgICMgcGF5bWVudCBzY3JlZW5zaG90cyAo
+bm90IHB1YmxpYykK4pSU4pSAIHZpZXdzLwpgYGAKCiMjIERlcGxveSB0byBS
+ZW5kZXIKCjEuIEZvcmsgLyBjbG9uZSB0aGlzIHJlcG8KMi4gU2lnbiBpbiB0
+byBSZW5kZXIg4oaSIE5ldyDihpIgV2ViIFNlcnZpY2UKMy4gQnVpbGQgY29t
+bWFuZDogYG5wbSBpbnN0YWxsYAo0LiBTdGFydCBjb21tYW5kOiBgbnBtIHN0
+YXJ0YAo1LiBFbnZpcm9ubWVudDogc2V0IGBOT0RFX0VOVj1wcm9kdWN0aW9u
+YCwgc2V0IGBTRVNTSU9OX1NFQ1JFVGAgdG8gYSBzZWN1cmUgcmFuZG9tIGhl
+eAo2LiBBZGQgYSBSZW5kZXIgUG9zdGdyZVNRTCBpbnN0YW5jZSAqKm9wdGlv
+bmFsKiogKGRlZmF1bHRzIHRvIFNRTGl0ZSkKNy4gQ3VzdG9tIGRvbWFpbjog
+cG9pbnQgQSByZWNvcmQgdG8gUmVuZGVy4oCZcyBJUCBvciB1c2UgUmVuZGVy
+4oCZcyBkZWZhdWx0IHN1YuKAkWRvbWFpbgoKIyMgRW52aXJvbm1lbnQgdmFy
+aWFibGVzCgp8IFZhcmlhYmxlIHwgRGVmYXVsdCB8IERlc2NyaXB0aW9uIHwK
+fC0tLS0tLS0tLS18LS0tLS0tLS0tfC0tLS0tLS0tLS0tLS18CnwgUE9SVCB8
+IDMwMDAgfCBTZXJ2ZXIgcG9ydCB8CnwgU0VTU0lPTl9TRUNSRVQgfCDigJQg
+fCBSYW5kb20gNjQtY2hhciBoZXggcmVxdWlyZWQgfAp8IEFQUF9VUkwgfCAo
+YXV0bykgfCBQdWJsaWMgVVJMIGZvciBsaW5rcyB8CnwgVFJVU1RfUFJPWFkg
+fCAxIHwgU2V0IDEgYmVoaW5kIG5naW54IHwKfCBNQUlOVEVOQU5DRV9NT0RF
+IHwgMCB8IDEgPSBzaG93IG1haW50ZW5hbmNlIHBhZ2UgfAp8IFJBVEVfTE9H
+SU4gfCAyMCB8IDE1LW1pbiBsaW1pdCBwZXIgSVAgfAp8IFJBVEVfT1JERVIg
+fCAxNSB8IDEwLW1pbiBsaW1pdCB8CnwgUkFURV9QQVlNRU5UIHwgMTAgfCAx
+MC1taW4gbGltaXQgfAp8IFJBVEVfQ09OVEFDVCB8IDUgfCAxMC1taW4gbGlt
+aXQgfAp8IE1BWF9VUExPQURfTUIgfCA1IHwgUGF5bWVudCBzY3JlZW5zaG90
+IHNpemUgfAoKIyMgVE9ETwoKLSBbIF0gQWRtaW4gbG9naW4gcGFnZQotIFsg
+XSBIZXJvICsgYW5ub3VuY2VtZW50IENNUwotIFsgXSBQYWNrYWdlIGNhcmRz
+ICh3aXRoIGVkaXQgVUkpCi0gWyBdIENoZWNrb3V0IOKGkiBvcmRlciBjcmVh
+dGlvbiDihpIgcGF5bWVudCB1cGxvYWQgIAotIFsgXSBBZG1pbiBwYW5lbDog
+b3JkZXJzLCBwYWNrYWdlcywgYmFuayBkZXRhaWxzCi0gWyBdIENTUzogZGFy
+ayBnbGFzc21vcnBoaXNtIHRoZW1lCi0gWyBdIEVtYWlsIG5vdGlmaWNhdGlv
+bnMKLSBbIF0gUFdBIHN1cHBvcnQ=
 
-## Quick Start (Local)
 
-```bash
-git clone https://github.com/Khalid-devjs/naija-dimes-hub.git
-cd naija-dimes-hub
-cp .env.example .env
-# EDIT .env: change SESSION_SECRET, set your bank details, etc.
-npm install
-npm start   # http://localhost:3000
-```
-
-## Overview
-
-- **Stack**: Express + EJS + SQLite3 + bcryptjs + helmet + CSRF
-- **Money**: NGN stored as kobo (₦1 = 100)
-- **Auth**: session cookies, bcrypt password hashing, role‑based (super_admin | manager | support)
-- **Order flow**: 7 steps → payment screenshot → manual admin approval → COMPLETED
-
-## Admin credentials
-
-Default (set in `.env` or seed on first run):
-- username: `admin`
-- password: `NaijaDimes2026!`  
-- role: `super_admin`
-
-**CHANGE THESE on first admin login.**
-
-## Directory layout
-
-```
-naija-dimes-hub/
-├─ package.json
-├─ server.js           # Express entry point
-├─ src/
-│  ├─ db.js            # SQLite3 connection + schema
-│  ├─ config.js        # Environment config
-│  ├─ lib/
-│  │  ├─ money.js      # kobo ↔ naira helpers
-│  │  ├─ orderId.js    # NDH-YYYYMMDD-XXXX generator
-│  │  ├─ orderMachine.js # state machine
-│  │  ├─ audit.js      # activity logging
-│  ├─ routes/
-│  │  ├─ public.js     # client pages
-│  │  └─ admin.js      # dashboard
-│  └─ views/
-│     ├─ layout.ejs
-│     └─ ...
-├─ data/
-│  └─ uploads/         # payment screenshots (not public)
-└─ views/
-```
-
-## Deploy to Render
-
-1. Fork / clone this repo
-2. Sign in to Render → New → Web Service
-3. Build command: `npm install`
-4. Start command: `npm start`
-5. Environment: set `NODE_ENV=production`, set `SESSION_SECRET` to a secure random hex
-6. Add a Render PostgreSQL instance **optional** (defaults to SQLite)
-7. Custom domain: point A record to Render’s IP or use Render’s default sub‑domain
-
-## Environment variables
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| PORT | 3000 | Server port |
-| SESSION_SECRET | — | Random 64-char hex required |
-| APP_URL | (auto) | Public URL for links |
-| TRUST_PROXY | 1 | Set 1 behind nginx |
-| MAINTENANCE_MODE | 0 | 1 = show maintenance page |
-| RATE_LOGIN | 20 | 15-min limit per IP |
-| RATE_ORDER | 15 | 10-min limit |
-| RATE_PAYMENT | 10 | 10-min limit |
-| RATE_CONTACT | 5 | 10-min limit |
-| MAX_UPLOAD_MB | 5 | Payment screenshot size |
-
-## TODO
-
-- [ ] Admin login page
-- [ ] Hero + announcement CMS
-- [ ] Package cards (with edit UI)
-- [ ] Checkout → order creation → payment upload  
-- [ ] Admin panel: orders, packages, bank details
-- [ ] CSS: dark glassmorphism theme
-- [ ] Email notifications
-- [ ] PWA support
+<!-- deploy trigger: fly.toml build fix applied -->
