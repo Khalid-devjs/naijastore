@@ -9,7 +9,7 @@ primary_region = 'ams'
 [build]
 
 [processes]
-  app = 'node ./dbsetup.js node server.js'
+  app = 'node server.js'
 
 [[mounts]]
   source = 'data'
@@ -19,7 +19,7 @@ primary_region = 'ams'
   auto_extend_size_limit = '10GB'
 
 [http_service]
-  internal_port = 8080
+  internal_port = 3000
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
