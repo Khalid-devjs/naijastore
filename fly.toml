@@ -7,6 +7,7 @@ app = 'naijastore'
 primary_region = 'ams'
 
 [build]
+  dockerfile = "Dockerfile"
 
 [processes]
   app = 'node server.js'
